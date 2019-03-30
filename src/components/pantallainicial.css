@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.inicio{
+    background-color: #795AD8;
+    width: 100%;
+}
+.btn-initial{
+    background-color:#F2C94C;;
+    position: absolute;
+    width: 280px;
+    height: 44px;
+    left: 47px;
+    top: 596px;
+    border-radius: 22px;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+   
+}
+.fa-arrow-right{
+    color: #ffffff;
+    padding-left: 5%;
+}
+.initialText{
+color: #F2F2F2;
+margin-top: 350px;   
+text-align: center; 
+}
+.askText{
+position: absolute;
+width: 237px;
+height: 220px;
+left: 68px;
+top: 356px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: normal;
+color: #F2F2F2;
+margin-top: 55px;
+text-align: center;
+}
+.number{
+position: absolute;
+width: 237px;
+height: 220px;
+left: 68px;
+top: 356px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: normal;
+color: #F2C94C;
+}
+.ask{
+    position: absolute;
+    width: 237px;
+    height: 220px;
+    left: 68px;
+    top: 356px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: normal;
+    color: #F2C94C;  
+    margin-top: 166px;  
+}
+.logo{
+left: 74px;
+top: 96px;
+position: absolute;
+width: 226px;
+height: 165px;
+}
