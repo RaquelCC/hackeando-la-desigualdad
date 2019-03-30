@@ -21,8 +21,7 @@
                 "Actividades de atención de la salud humana":  1004879,
                 "Actividades artísticas y de entretenimiento":  469812,
                 "Otras actividades de servicios":  407597,
-                "Actividades de los hogares como empleadores":  264763,
-                "Actividades de organizaciones y órganos extraterritoriales": null
+                "Actividades de los hogares como empleadores":  264763
             },
             "Mujeres": {
                 "Agricultura, ganadería, silvicultura y pesca":  239387,
@@ -44,8 +43,7 @@
                 "Actividades de atención de la salud humana":  578462,
                 "Actividades artísticas y de entretenimiento":  463643,
                 "Otras actividades de servicios":  255477,
-                "Actividades de los hogares como empleadores":  240590,
-                "Actividades de organizaciones y órganos extraterritoriales": 1107763
+                "Actividades de los hogares como empleadores":  240590
             },
             "Brecha": {
                 "Agricultura, ganadería, silvicultura y pesca":  -37.5,
@@ -67,8 +65,7 @@
                 "Actividades de atención de la salud humana":  -42.4,
                 "Actividades artísticas y de entretenimiento":  -1.3,
                 "Otras actividades de servicios":  -37.3,
-                "Actividades de los hogares como empleadores":  -9.1,
-                "Actividades de organizaciones y órganos extraterritoriales": null
+                "Actividades de los hogares como empleadores":  -9.1
             }
         },
         "Ingreso mediano mensual": {

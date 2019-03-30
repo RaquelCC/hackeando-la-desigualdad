@@ -4,8 +4,9 @@ import ActivitiesCategory from './components/activitiesCategory';
 import GraphPage from './components/graphPage';
 // import logo from './logo.svg';
 import './App.css';
-import Header from './components/header'
-import SexCategory from './components/sexCategory'
+import Header from './components/header';
+import SexCategory from './components/sexCategory';
+import MoreInfo from './components/moreInfo';
 
 class App extends Component {
   constructor(props){
@@ -20,6 +21,7 @@ class App extends Component {
     this.selectActivity = this.selectActivity.bind(this);
     this.clickWomanButton  = this.clickWomanButton.bind(this);
     this.clickManButton  = this.clickManButton.bind(this);
+    this.moreInfoPage = this.moreInfoPage.bind(this);
   }
 
   selectActivity(e) {
@@ -37,6 +39,12 @@ class App extends Component {
 
   }
  
+  moreInfoPage() {
+    this.setState({
+      ...this.state,
+      currentPage: "moreInfo",
+    })
+  }
    
 
 
@@ -75,9 +83,13 @@ class App extends Component {
        hombres={this.state.data["Ingreso medio y mediano mensual de las personas ocupadas por sexo, según rama de actividad 2017"]["Ingreso medio mensual"][ "Hombres"][this.state.userActivity]}
        mujeres={this.state.data["Ingreso medio y mediano mensual de las personas ocupadas por sexo, según rama de actividad 2017"]["Ingreso medio mensual"][ "Mujeres"][this.state.userActivity]}
        brecha={this.state.data["Ingreso medio y mediano mensual de las personas ocupadas por sexo, según rama de actividad 2017"]["Ingreso medio mensual"][ "Brecha"][this.state.userActivity]}
-       actividad={this.state.userActivity}    
+       actividad={this.state.userActivity}
+       userGender={this.state.userGender}   
+       moreInfoPage={this.moreInfoPage} 
        />}
-       
+       {this.state.currentPage === "moreInfo" &&
+      <MoreInfo
+      />}
         
        
       </div>

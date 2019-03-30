@@ -5,6 +5,7 @@ import ActivitiesButton from './activitiesButton';
 function ActivitiesCategory(props) {
 
     return (
+        <div className="white-bg">
         <div className="activities-category-container">{
             props.activitiesList.map(item => {
                 return (
@@ -15,7 +16,11 @@ function ActivitiesCategory(props) {
                     />
                 )
             })
-        }</div>
+            
+        }
+        <div className="bottom-category"><span className="step2">paso 2/2</span></div>
+        </div>
+        </div>
     )
 }
 

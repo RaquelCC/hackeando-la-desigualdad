@@ -19,6 +19,7 @@ function SexCategory (props) {
             >
             <i className="fas fa-mars"></i></button>
             <p className="imMan">Masculino</p>
+            <div className="steps">paso 1/2</div>
         </div>
     )
 }
