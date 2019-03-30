@@ -1,0 +1,292 @@
+{
+    "Ingreso medio y mediano mensual de las personas ocupadas por sexo, según rama de actividad 2017": {
+        "Ingreso medio mensual": {
+            "Hombres": {
+                "Agricultura, ganadería, silvicultura y pesca":  383175,
+                "Minería":  1031596,
+                "Industrias manufactureras":  622083,
+                "Suministro de electricidad":  1022151,
+                "Suministro de agua":  492537, 
+                "Construcción":  496637,
+                "Comercio":  528676,
+                "Transporte y almacenamiento":  541758,
+                "Actividades de alojamiento y de servicio de comidas":  487855,
+                "Información y comunicaciones":  1004002,
+                "Actividades financieras y de seguros":  1457301,
+                "Actividades inmobiliarias":  905666,
+                "Actividades profesionales, científicas y técnicas":  1319146,
+                "Actividades de servicios administrativos y de apoyo":  565209,
+                "Administración pública":  882250,
+                "Enseñanza":  779167,
+                "Actividades de atención de la salud humana":  1004879,
+                "Actividades artísticas y de entretenimiento":  469812,
+                "Otras actividades de servicios":  407597,
+                "Actividades de los hogares como empleadores":  264763,
+                "Actividades de organizaciones y órganos extraterritoriales": null
+            },
+            "Mujeres": {
+                "Agricultura, ganadería, silvicultura y pesca":  239387,
+                "Minería":  931251,
+                "Industrias manufactureras":  331379,
+                "Suministro de electricidad":  757018,
+                "Suministro de agua":  644480, 
+                "Construcción":  656355,
+                "Comercio":  339509,
+                "Transporte y almacenamiento":  474135,
+                "Actividades de alojamiento y de servicio de comidas":  381150,
+                "Información y comunicaciones":  604327,
+                "Actividades financieras y de seguros":  802928,
+                "Actividades inmobiliarias":  844943,
+                "Actividades profesionales, científicas y técnicas":  709719,
+                "Actividades de servicios administrativos y de apoyo":  309807,
+                "Administración pública":  781493,
+                "Enseñanza":  563514,
+                "Actividades de atención de la salud humana":  578462,
+                "Actividades artísticas y de entretenimiento":  463643,
+                "Otras actividades de servicios":  255477,
+                "Actividades de los hogares como empleadores":  240590,
+                "Actividades de organizaciones y órganos extraterritoriales": 1107763
+            },
+            "Brecha": {
+                "Agricultura, ganadería, silvicultura y pesca":  -37.5,
+                "Minería":  -9.7,
+                "Industrias manufactureras":  -46.7,
+                "Suministro de electricidad":  -25.9,
+                "Suministro de agua":  30.8,
+                "Construcción":  32.2,
+                "Comercio":  -35.8,
+                "Transporte y almacenamiento":  -12.5,
+                "Actividades de alojamiento y de servicio de comidas":  -21.9,
+                "Información y comunicaciones":  -39.8,
+                "Actividades financieras y de seguros":  -44.9,
+                "Actividades inmobiliarias":  -6.7,
+                "Actividades profesionales, científicas y técnicas":  -46.2,
+                "Actividades de servicios administrativos y de apoyo":  -45.2,
+                "Administración pública":  -11.4,
+                "Enseñanza":  -27.7,
+                "Actividades de atención de la salud humana":  -42.4,
+                "Actividades artísticas y de entretenimiento":  -1.3,
+                "Otras actividades de servicios":  -37.3,
+                "Actividades de los hogares como empleadores":  -9.1,
+                "Actividades de organizaciones y órganos extraterritoriales": null
+            }
+        },
+        "Ingreso mediano mensual": {
+            "Hombres": {
+                "Agricultura, ganadería, silvicultura y pesca":  289750,
+                "Minería":  779329,
+                "Industrias manufactureras":  436000,
+                "Suministro de electricidad":  633709,
+                "Suministro de agua":  380000, 
+                "Construcción":  399656,
+                "Comercio":  350000,
+                "Transporte y almacenamiento":  402355,
+                "Actividades de alojamiento y de servicio de comidas":  390676,
+                "Información y comunicaciones":  600000,
+                "Actividades financieras y de seguros":  804710,
+                "Actividades inmobiliarias":  409647,
+                "Actividades profesionales, científicas y técnicas":  800962,
+                "Actividades de servicios administrativos y de apoyo":  399656,
+                "Administración pública":  699398,
+                "Enseñanza":  599484,
+                "Actividades de atención de la salud humana":  619467,
+                "Actividades artísticas y de entretenimiento":  324721,
+                "Otras actividades de servicios":  301766,
+                "Actividades de los hogares como empleadores":  270000,
+                "Actividades de organizaciones y órganos extraterritoriales": null
+            },
+            "Mujeres": {
+                "Agricultura, ganadería, silvicultura y pesca":  219811,
+                "Minería":  650000,
+                "Industrias manufactureras":  270000,
+                "Suministro de electricidad":  370000,
+                "Suministro de agua":  231354, 
+                "Construcción":  452649,
+                "Comercio":  269768,
+                "Transporte y almacenamiento":  349699,
+                "Actividades de alojamiento y de servicio de comidas":  279637,
+                "Información y comunicaciones":  499570,
+                "Actividades financieras y de seguros":  600000,
+                "Actividades inmobiliarias":  549527,
+                "Actividades profesionales, científicas y técnicas":  469595,
+                "Actividades de servicios administrativos y de apoyo":  261531,
+                "Administración pública":  549527,
+                "Enseñanza":  449613,
+                "Actividades de atención de la salud humana":  402355,
+                "Actividades artísticas y de entretenimiento":  310000,
+                "Otras actividades de servicios":  200000,
+                "Actividades de los hogares como empleadores":  239794,
+                "Actividades de organizaciones y órganos extraterritoriales": 1898366
+            },
+            "Brecha": {
+                "Agricultura, ganadería, silvicultura y pesca":  -24.1,
+                "Minería":  -16.6,
+                "Industrias manufactureras":  -38.1,
+                "Suministro de electricidad":  -41.6,
+                "Suministro de agua":  -39.1,
+                "Construcción":  13.3,
+                "Comercio":  -22.9,
+                "Transporte y almacenamiento":  -13.1,
+                "Actividades de alojamiento y de servicio de comidas":  -28.4,
+                "Información y comunicaciones":  -16.7,
+                "Actividades financieras y de seguros":  -25.4,
+                "Actividades inmobiliarias":  34.1,
+                "Actividades profesionales, científicas y técnicas":  -41.4,
+                "Actividades de servicios administrativos y de apoyo":  -34.6,
+                "Administración pública":  -21.4,
+                "Enseñanza":  -25,
+                "Actividades de atención de la salud humana":  -35,
+                "Actividades artísticas y de entretenimiento":  -4.5,
+                "Otras actividades de servicios":  -33.7,
+                "Actividades de los hogares como empleadores":  -11.2,
+                "Actividades de organizaciones y órganos extraterritoriales": null
+            }
+        }
+    },
+    "Ingreso medio y mediano mensual de las personas ocupadas por sexo, según categoría ocupacional 2017": {
+        "Ingreso medio mensual": {
+            "Hombres": {
+                "Empleadores": 1408457,
+                "Cuenta propia": 388520,
+                "Asalariados sector privado": 608356,
+                "Asalariados sector público": 975950,
+                "Personal de servicio doméstico puertas afuera": 289993,
+                "Personal de servicio doméstico puertas adentro": 222335
+            },
+            "Mujeres": {
+                "Empleadores": 1038880,
+                "Cuenta propia": 234880,
+                "Asalariados sector privado": 485824,
+                "Asalariados sector público": 690432,
+                "Personal de servicio doméstico puertas afuera": 212143,
+                "Personal de servicio doméstico puertas adentro": 371812
+            },
+            "Brecha": {
+                "Empleadores": -26.2,
+                "Cuenta propia": -39.5,
+                "Asalariados sector privado": -20.1,
+                "Asalariados sector público": -29.3,
+                "Personal de servicio doméstico puertas afuera": -26.8,
+                "Personal de servicio doméstico puertas adentro": 67.2
+            }
+        },
+        "Ingreso mediano mensual": {
+            "Hombres": {
+                "Empleadores": 830058,
+                "Cuenta propia": 289192,
+                "Asalariados sector privado": 413218,
+                "Asalariados sector público": 720000,
+                "Personal de servicio doméstico puertas afuera": 299742,
+                "Personal de servicio doméstico puertas adentro": 249785
+            },
+            "Mujeres": {
+                "Empleadores": 600949,
+                "Cuenta propia": 130000,
+                "Asalariados sector privado": 352060,
+                "Asalariados sector público": 520000,
+                "Personal de servicio doméstico puertas afuera": 207213,
+                "Personal de servicio doméstico puertas adentro": 400000
+            },
+            "Brecha": {
+                "Empleadores": -27.6,
+                "Cuenta propia": -55,
+                "Asalariados sector privado": -14.8,
+                "Asalariados sector público": -27.8,
+                "Personal de servicio doméstico puertas afuera": -30.9,
+                "Personal de servicio doméstico puertas adentro": 60.1
+            }
+        }
+    },
+    "Personas ocupadas por sexo según grupo de ocupación": {
+        "Personas ocupadas": {
+            "Hombres": {
+                "Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empresas": 133562,
+                "Profesionales científicos e intelectuales": 505361,
+                "Técnicos y profesionales de nivel medio": 507794,
+                "Empleados de oficina": 290140,
+                "Trabajadores de los servicios y vendedores de comercios y mercados": 430388,
+                "Agricultores y trabajadores calificados agropecuarios y pesqueros": 261997,
+                "Oficiales, operarios y artesanos de artes mecánicas y de otros oficios": 984030,
+                "Operadores de instalaciones y maquinas y montadores": 692902,
+                "Trabajadores no calificados": 1018770,
+                "Otros no identificados": 61154
+            },
+            "Mujeres": {
+                "Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empresas": 48036,
+                "Profesionales científicos e intelectuales": 464787,
+                "Técnicos y profesionales de nivel medio": 478990,
+                "Empleados de oficina": 448063,
+                "Trabajadores de los servicios y vendedores de comercios y mercados": 817024,
+                "Agricultores y trabajadores calificados agropecuarios y pesqueros": 51130,
+                "Oficiales, operarios y artesanos de artes mecánicas y de otros oficios": 187174,
+                "Operadores de instalaciones y maquinas y montadores": 58639,
+                "Trabajadores no calificados": 839910,
+                "Otros no identificados": 7018
+            }
+        }
+    },
+    "Distribución": {
+        "Hombres": {
+            "Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empresas": 73.5,
+            "Profesionales científicos e intelectuales": 52.1,
+            "Técnicos y profesionales de nivel medio": 51.5,
+            "Empleados de oficina": 39.3,
+            "Trabajadores de los servicios y vendedores de comercios y mercados": 34.5,
+            "Agricultores y trabajadores calificados agropecuarios y pesqueros": 83.7,
+            "Oficiales, operarios y artesanos de artes mecánicas y de otros oficios": 84.3,
+            "Operadores de instalaciones y maquinas y montadores": 92.2,
+            "Trabajadores no calificados": 54.8,
+            "Otros no identificados": 88.5
+        },
+        "Mujeres": {
+            "Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empresas": 26.5,
+            "Profesionales científicos e intelectuales": 47.9,
+            "Técnicos y profesionales de nivel medio": 48.5,
+            "Empleados de oficina": 60.7,
+            "Trabajadores de los servicios y vendedores de comercios y mercados": 65.5,
+            "Agricultores y trabajadores calificados agropecuarios y pesqueros": 16.3,
+            "Oficiales, operarios y artesanos de artes mecánicas y de otros oficios": 15.7,
+            "Operadores de instalaciones y maquinas y montadores": 7.8,
+            "Trabajadores no calificados": 45.2,
+            "Otros no identificados": 11.5
+        },
+        "Brecha": {
+            "Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empresas": -47.1,
+            "Profesionales científicos e intelectuales": -4.2,
+            "Técnicos y profesionales de nivel medio": -2.9,
+            "Empleados de oficina": 21.4,
+            "Trabajadores de los servicios y vendedores de comercios y mercados": 31,
+            "Agricultores y trabajadores calificados agropecuarios y pesqueros": -67.3,
+            "Oficiales, operarios y artesanos de artes mecánicas y de otros oficios": -68.6,
+            "Operadores de instalaciones y maquinas y montadores": -84.4,
+            "Trabajadores no calificados": -9.6,
+            "Otros no identificados": -77
+        }
+    },
+    "Concentración": {
+        "Hombres": {
+            "Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empresas": 2.7,
+            "Profesionales científicos e intelectuales": 10.4,
+            "Técnicos y profesionales de nivel medio": 10.4,
+            "Empleados de oficina": 5.9,
+            "Trabajadores de los servicios y vendedores de comercios y mercados": 8.8,
+            "Agricultores y trabajadores calificados agropecuarios y pesqueros": 5.4,
+            "Oficiales, operarios y artesanos de artes mecánicas y de otros oficios": 20.2,
+            "Operadores de instalaciones y maquinas y montadores": 14.2,
+            "Trabajadores no calificados": 20.9,
+            "Otros no identificados": 1.1
+        },
+        "Mujeres": {
+            "Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empresas": 1.4,
+            "Profesionales científicos e intelectuales": 13.7,
+            "Técnicos y profesionales de nivel medio": 14.1,
+            "Empleados de oficina": 13.2,
+            "Trabajadores de los servicios y vendedores de comercios y mercados": 24.1,
+            "Agricultores y trabajadores calificados agropecuarios y pesqueros": 1.5,
+            "Oficiales, operarios y artesanos de artes mecánicas y de otros oficios": 5.4,
+            "Operadores de instalaciones y maquinas y montadores": 1.7,
+            "Trabajadores no calificados": 24.7,
+            "Otros no identificados": 0.2
+        }
+    }
+}
