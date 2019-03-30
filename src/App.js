@@ -24,6 +24,7 @@ class App extends Component {
     this.clickManButton  = this.clickManButton.bind(this);
     this.moreInfoPage = this.moreInfoPage.bind(this);
     this.clickVamonButton = this.clickVamonButton.bind(this);
+    this.return = this.return.bind(this);
   }
 
   selectActivity(e) {
@@ -31,6 +32,15 @@ class App extends Component {
       ...this.state,
       userActivity: e,
       currentPage: "graphPage"
+    })
+  }
+
+  return() {
+    this.setState({
+      ...this.state,
+      userGender: false,
+      userActivity: false,
+      currentPage: "initialPage"
     })
   }
 
@@ -78,6 +88,7 @@ class App extends Component {
       <div className="App">
       {this.state.currentPage !== "initialPage" &&
       <Header
+      onClick={this.return}
       />}  
       {this.state.currentPage === "selectGender" && 
       <SexCategory
