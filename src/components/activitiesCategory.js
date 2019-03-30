@@ -11,7 +11,7 @@ function ActivitiesCategory(props) {
                     <ActivitiesButton
                     item={item}
                     onClick={props.onClick}
-                    key={item}
+                    key={props.item}
                     />
                 )
             })
