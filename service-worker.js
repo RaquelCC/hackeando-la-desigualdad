@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hackeando-la-desigualdad/precache-manifest.9ac7960af56f68519b4dbd3f92783da6.js"
+  "/hackeando-la-desigualdad/precache-manifest.06c2b3dc008d6ed3fc83aa153b8855ef.js"
 );
 
 workbox.clientsClaim();
