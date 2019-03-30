@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+.btn-femele{
+    border-radius: 100%;
+    display: block !important;
+    margin-top: 5%;
+    margin-left: 30%;
+    width:150px;
+    height: 150px;
+    cursor: pointer;
+}
+.btn-male{
+    border-radius: 100%;
+    display: block !important;
+    margin-top: 5%;
+    margin-left: 30%;
+    width:150px;
+    height: 150px;
+    cursor: pointer;
+
+}
+.title-sexCategory{
+    margin-top: 30%;
+}
+.imWoman{
+    margin-top: 2%;
+}
+.imMan{
+    margin-top: 2%;
+}
+.fa-venus{
+    font-size:100px;
+    color: yellow;
+}
+.fa-mars{
+    font-size:100px;
+    color: yellow;
+}
