@@ -4,10 +4,10 @@ import './sexCategory.css'
 function SexCategory (props) {
     
     return (
-        <div>
+        <div className="sex-category-container">
             <h3 className="title-sexCategory">¿Con qué género te identificas?</h3>
             <button 
-                className="btn-femele"
+                className="btn-female"
                 onClick={props.onClickWomen}
             >
             <i className="fas fa-venus"></i></button>

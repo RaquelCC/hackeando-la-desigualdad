@@ -1,10 +1,16 @@
 *{
     margin: 0;
 }
-.btn-femele{
+
+.sex-category-container {
+    display: block;
+    margin: 100px auto;
+}
+
+.btn-female{
     border-radius: 100%;
     display: block !important;
-    margin: auto;
+    margin: 20px auto;
     width:150px;
     height: 150px;
     cursor: pointer;
@@ -12,15 +18,19 @@
 .btn-male{
     border-radius: 100%;
     display: block !important;
-    margin:auto;
+    margin: 20px auto;
     width:150px;
     height: 150px;
     cursor: pointer;
 
 }
-.title-sexCategory{
-    margin-top: 30%;
+
+.btn-female:focus, .btn-male:focus {
+    outline: none;
 }
+/* .title-sexCategory{
+    margin-top: 30%;
+} */
 .imWoman{
     margin-top: 2%;
 }
