@@ -5,6 +5,7 @@ import GraphPage from './components/graphPage';
 import Header from './components/header'
 import Inicio from './components/pantallainicial'
 import SexCategory from './components/sexCategory'
+import logo2 from '../src/IMG/Group.png'
 
 
 class App extends Component {
@@ -20,6 +21,7 @@ class App extends Component {
     this.selectActivity = this.selectActivity.bind(this);
     this.clickWomanButton  = this.clickWomanButton.bind(this);
     this.clickManButton  = this.clickManButton.bind(this);
+    this.clickVamonButton = this.clickVamonButton.bind(this);
   }
 
   selectActivity(e) {
@@ -53,6 +55,13 @@ class App extends Component {
     })
   }
 
+  clickVamonButton(){
+    this.setState({
+      ...this.state,
+      currentPage: "selectGender",
+    })
+  }
+
   render() {
     return (
       <div className="App">
@@ -78,6 +87,7 @@ class App extends Component {
       />}
       {this.state.currentPage === "initialPage" &&
       <Inicio
+      onClickVamos={this.clickVamonButton}
       />}
       </div>
     );

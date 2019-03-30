@@ -16,7 +16,11 @@ function Inicio (props) {
                 Quieres ver dónde estas tú?
                 </p>
 
-            <button className="btn-initial">Vamos       <i class="fas fa-arrow-right"></i></button>
+            <button 
+            className="btn-initial"
+            onClick={props.onClickVamos}     
+            >Vamos  
+            <i class="fas fa-arrow-right"></i></button>
         </div>
     )
 }
